@@ -1,6 +1,6 @@
 
 
-<h1 align="center">〝ELGAZAR_BOTV6✨〞<br></h1>
+<h1 align="center">〝E𝙰𝚌 𝚖𝚘𝚍𝚜 𝚋𝚢 𝚘𝚝𝚑𝚖𝚊𝚗𝚎 𝚋𝚘𝚝 𝚟6✨〞<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/86f4d8e6bfb7ba044994f.jpg" alt="animated" width="500" height="300" />
 </p>
